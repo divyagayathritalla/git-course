@@ -1,2 +1,1 @@
-"git-course readme" 
-"hello git-course updated" 
+Hello, git-course 
